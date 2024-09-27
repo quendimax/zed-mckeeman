@@ -1,0 +1,11 @@
+id = "mckeeman"
+name = "McKeeman Form"
+description = "McKeeman Form grammar support"
+version = "0.0.1"
+schema_version = 1
+authors = ["Maksim Tomkavich <quendimax@gmail.com>"]
+repository = "https://github.com/quendimax/zed-mckeeman"
+
+[grammars.mckeeman]
+repository = "https://github.com/quendimax/tree-sitter-mckeeman"
+commit = "6ee3d14caaae796674e7133bc77004034d190d47"
