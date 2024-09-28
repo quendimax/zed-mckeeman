@@ -8,4 +8,4 @@ repository = "https://github.com/quendimax/zed-mckeeman"
 
 [grammars.mckeeman]
 repository = "https://github.com/quendimax/tree-sitter-mckeeman"
-commit = "6ee3d14caaae796674e7133bc77004034d190d47"
+commit = "ab34e8db0b4c055031aae67caec3da80d4f7f376"
